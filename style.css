@@ -85,5 +85,8 @@
 		border-width: 3px;
 		
 	}
-	
+	.new:after{
+		content: "new";
+		color: red;
+	}
 	
