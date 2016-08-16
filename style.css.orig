@@ -1,0 +1,137 @@
+	body{
+		background-color: #f8f8f8;
+	}
+	hr{
+		color: #000dd;
+		height: 5px;
+	}
+	.menu li{
+		font-family: : "Times New Roman", serif, Veranda;
+		font-variant: small-caps;
+		font-weigt: bold;
+		font-size: 20px;
+		text-align: left;
+		list-style-type: none;
+	}
+	.menu li a{
+		color: #3A3D3A;
+	}
+	.header{
+		color: black;
+		font-size: 18px;
+		hont-weight: 400;
+		background-color: #eaeaea;
+	}
+	.short{
+		color: #707070;
+		font-size: 14px;
+		font-style: italic;
+		line-heiht: 16px;
+		}
+	.long{
+		color: #484343;
+		font-size: 16px;
+		font-weight: 400;
+		line-height: 24px;
+		text-align: left;
+		}
+	.list{
+		color: #3A3D3A;
+		font-size: 15px;
+		line-heigt: 20px;
+		text-decoration: underline;
+		/*list-style-image: url(button.png);*/
+	}
+	.pic-mark {
+		list-style-image: url(clap.png);
+	}
+		textarea{
+		width: 550px;
+		text-align: left;
+		font-family: : "Times New Roman", serif, Veranda;
+		color: grey;
+		line-height: 15px;
+		font-size: 25px;
+		font-weight: 400;
+	}
+	input[type="text"], input[type="password"]{
+		width: 275px;
+		text-align: center;
+		color: blue;
+		line-height: 15px;
+		font-size: 20px;
+		font-family: : "Times New Roman", serif, Veranda;
+		font-weight: 400;
+	}
+	.pic-wideprod{
+		border-color: grey;
+		border-style: groove;
+		border-width: 3px;
+		width: 200px;
+		height: 100px;
+	}
+	.pic-logo{
+<<<<<<< HEAD
+		width: 150px;
+		height: 100px;
+=======
+		width: 200px;
+		height: 70px;
+>>>>>>> d9e5d9a3a5cd49660ff445a99c8ec58deddc08bd
+	}
+	/*input[type="password"]{
+		width: 275px;
+	}*/	
+	li a:hover{
+		background-color: #E3DFAF;
+		border-style: ridge;
+		border-color: #FAE902;
+		border-width: 2px;
+	}
+	a img:hover{
+		border-style: ridge;
+		border-color: #FAE902;
+		border-width: 3px;
+		
+	}
+	.new:after{
+		content: "new";
+		color: red;
+	}
+	td{
+		border: 1px solid #000;
+	}
+	td:first-child{
+		color: purple;
+		line-height: 20px;		
+	}
+	/*caption:2nd-child{
+		color: purple;
+		line-height: 20px;		
+	}*/
+	
+
+	table {
+		border: 1px solid #000;
+		text-align: center;
+		border-collapse: collapse;
+	}
+	.price{
+		font-size: 30px;
+		font-family: : "Times New Roman", serif, Veranda;
+		font-weight: 600;
+		color: #423E3F;
+	}
+	.test-menu{
+		border: none;	
+	}
+	.test-menu td{
+		width: 210px;
+<<<<<<< HEAD
+		height: 100px;
+		border: none;
+=======
+		height: 50px;
+>>>>>>> d9e5d9a3a5cd49660ff445a99c8ec58deddc08bd
+	}
+	
