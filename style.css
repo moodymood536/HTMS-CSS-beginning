@@ -89,7 +89,26 @@
 		content: "new";
 		color: red;
 	}
+	td{
+		border: 1px solid #000;
+	}
 	td:first-child{
 		color: purple;
-		line-height: 20px;
+		line-height: 20px;		
 	}
+	/*caption:2nd-child{
+		color: purple;
+		line-height: 20px;		
+	}*/
+	table {
+		border: 1px solid #000;
+		text-align: center;
+		border-collapse: collapse;
+	}
+	.price{
+		font-size: 30px;
+		font-family: : "Times New Roman", serif, Veranda;
+		font-weight: 600;
+		color: #423E3F;
+	}
+	
