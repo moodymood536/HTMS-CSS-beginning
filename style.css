@@ -70,6 +70,10 @@
 		width: 200px;
 		hights: 100px;
 	}
+	.pic-logo{
+		width: 200px;
+		hights: 70px;
+	}
 	/*input[type="password"]{
 		width: 275px;
 	}*/	
@@ -110,5 +114,10 @@
 		font-family: : "Times New Roman", serif, Veranda;
 		font-weight: 600;
 		color: #423E3F;
+	}
+	.test-menu{
+		border: 1px solid #000;
+		width: 200px;
+		hights: 100px;
 	}
 	
