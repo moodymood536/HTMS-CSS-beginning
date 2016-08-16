@@ -115,9 +115,8 @@
 		font-weight: 600;
 		color: #423E3F;
 	}
-	.test-menu{
-		border: 1px solid #000;
-		width: 200px;
-		hights: 100px;
+	.test-menu td{
+		width: 210px;
+		hights: 50px;
 	}
 	
