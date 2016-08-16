@@ -68,11 +68,11 @@
 		border-style: groove;
 		border-width: 3px;
 		width: 200px;
-		hights: 100px;
+		height: 100px;
 	}
 	.pic-logo{
-		width: 200px;
-		hights: 70px;
+		width: 150px;
+		height: 100px;
 	}
 	/*input[type="password"]{
 		width: 275px;
@@ -104,6 +104,8 @@
 		color: purple;
 		line-height: 20px;		
 	}*/
+	
+
 	table {
 		border: 1px solid #000;
 		text-align: center;
@@ -115,8 +117,12 @@
 		font-weight: 600;
 		color: #423E3F;
 	}
+	.test-menu{
+		border: none;	
+	}
 	.test-menu td{
 		width: 210px;
-		hights: 50px;
+		height: 100px;
+		border: none;
 	}
 	
