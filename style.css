@@ -166,7 +166,7 @@
 	}
 	/*Выпадающее меню, почему оно появляется при наведении на шапку, 
 	а не на ссылку Каталог?*/
-		.test-menu:hover ul{
+		.test-menu:hover .vipad-menu{
 		display: block;
 	}
 	.vipad-menu{
